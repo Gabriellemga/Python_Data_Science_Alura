@@ -1,6 +1,6 @@
 # Hora_da_Pratica_Phyton
 
-Atividades do curso Curso de Python para Data Science: primeiros passos da Alura
+Atividades do Curso de Python para Data Science: primeiros passos da Alura
 
 Aula 1 - Pratica do uso da função print com algumas atividades.
 
