@@ -1,0 +1,11 @@
+ID_Aluno,Nome,Curso,Horas_Estudo,Nota_Final,Status,Avaliação_Aluno,Data_Conclusão
+1.0,Pedro Souza,Python para Iniciantes,10.0,8.5,Aprovado,5.0,2025-01-01
+2.0,Ana Lima,Data Science Avançado,15.0,9.0,Aprovado,4.0,2025-01-02
+3.0,João Santos,Machine Learning,20.0,9.5,Aprovado,5.0,2025-01-03
+,,,,,,,
+5.0,Lucas Pereira,Visualização de Dados,12.0,8.0,Aprovado,4.0,2025-01-05
+6.0,Fernanda Silva,Estatística Aplicada,18.0,9.2,Aprovado,5.0,2025-01-06
+7.0,Carla Ribeiro,Análise de Sentimentos,22.0,9.8,Aprovado,5.0,2025-01-07
+8.0,Paulo Almeida,Deep Learning,30.0,10.0,Aprovado,5.0,2025-01-08
+,,,,,,,
+10.0,Rafael Mendes,Big Data,16.0,8.8,Aprovado,4.0,2025-01-10
