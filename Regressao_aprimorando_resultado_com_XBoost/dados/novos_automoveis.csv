@@ -1,0 +1,7 @@
+Marca,Modelo,Ano,Tipo_combustivel,Potencia_motor,Cilindros_motor,Tipo_transmissao,Rodas_motrizes,Numero_portas,Tamanho,Estilo,Consumo_estrada_milhas,Consumo_cidade_milhas
+Subaru,Impreza WRX,2013,gasolina premium (obrigatoria),305.0,4.0,manual,tracao integral,4.0,compacto,seda,22,15
+Honda,Insight,2012,gasolina comum,98.0,4.0,automatico,tracao dianteira,4.0,compacto,hatchback 4 portas,49,38
+Volvo,XC90,2015,gasolina premium (recomendada),250.0,4.0,automatico,tracao dianteira,4.0,grande,SUV 4 portas,25,20
+Honda,HR-V,2016,gasolina comum,141.0,4.0,automatico,tracao integral,4.0,compacto,SUV 4 portas,32,28
+  
+  
