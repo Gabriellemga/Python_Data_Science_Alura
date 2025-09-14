@@ -1,5 +1,5 @@
 # 🌳 Regressão: Construindo Árvore de Regressão
-
+---
 ## Índice  
 - [Sobre o projeto](#sobre-o-projeto)  
 - [Aprendizagens](#aprendizagens)  
@@ -22,6 +22,18 @@ Projeto focado na **construção e otimização de árvores de regressão** para
 
 ---
 
+## Abordagem Metodológica
+O desenvolvimento segue uma estrutura progressiva:
+
+Preparação dos dados: Tratamento de valores missing, encoding de variáveis categóricas e divisão treino-teste
+
+Modelagem inicial: Criação de uma árvore baseline com parâmetros padrão
+
+Otimização sistemática: Busca de hiperparâmetros via validação cruzada
+
+Avaliação rigorosa: Análise de métricas de performance e interpretabilidade do modelo
+---
+
 ## Tópicos Explorados  
 ### 🔍 **Análise de Sensibilidade**  
 - Teste do modelo com diferentes conjuntos de dados e parâmetros para avaliar robustez.  
@@ -42,12 +54,12 @@ Projeto focado na **construção e otimização de árvores de regressão** para
 
 ## Tecnologias utilizadas  
  - [Google Colaboratory](https://colab.research.google.com/): Ambiente de notebook interativo baseado na nuvem.
-- [Python](https://www.python.org/)  
+- [Python](https://www.python.org/):  
 - [Scikit-learn](https://scikit-learn.org/stable/) (*DecisionTreeRegressor*, *GridSearchCV*)  
-- [Pandas](https://pandas.pydata.org/)  
-- [Matplotlib](https://matplotlib.org/)  
-- [Seaborn](https://seaborn.pydata.org/)  
-- [Graphviz](https://graphviz.org/) (visualização de árvores)  
+- [Pandas](https://pandas.pydata.org/):  
+- [Matplotlib](https://matplotlib.org/):  
+- [Seaborn](https://seaborn.pydata.org/):  
+- [Graphviz](https://graphviz.org/): Visualização de árvores  
 
 ---
 
@@ -58,5 +70,5 @@ Este projeto está licenciado sob a [Licença MIT](https://opensource.org/licens
 
 ✨ Feito por [Marcia Gabrielle](https://github.com/Gabriellemga).  
 
----
+
 
