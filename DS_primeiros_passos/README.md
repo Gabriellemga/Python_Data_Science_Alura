@@ -4,7 +4,6 @@
 
 - [Sobre o projeto](#sobre-o-projeto)
 - [Aprendizagens](#aprendizagens)
-- [Como acessar o projeto?](#como-acessar-o-projeto)
 - [Tecnologias utilizadas](#tecnologias-utilizadas)
 - [Licença](#licença)
 
