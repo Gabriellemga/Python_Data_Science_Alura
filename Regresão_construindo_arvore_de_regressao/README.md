@@ -10,7 +10,7 @@
 ---
 
 ## Sobre o projeto  
-Projeto focado na **construção e otimização de árvores de regressão** para modelagem preditiva, desenvolvido como parte da formação em Data Science da Alura. O objetivo é dominar algoritmos de aprendizado de máquina para previsão de valores contínuos, desde a preparação dos dados até a interpretação dos resultados do modelo.  
+Projeto focado na **construção e otimização de árvores de regressão** para modelagem preditiva, para precificação de entrega de esculturas, desenvolvido como parte da formação em Data Science da Alura. O objetivo é dominar algoritmos de aprendizado de máquina para previsão de valores contínuos, desde a preparação dos dados até a interpretação dos resultados do modelo.  
 
 ---
 
@@ -54,11 +54,11 @@ Avaliação rigorosa: Análise de métricas de performance e interpretabilidade 
 
 ## Tecnologias utilizadas  
  - [Google Colaboratory](https://colab.research.google.com/): Ambiente de notebook interativo baseado na nuvem.
-- [Python](https://www.python.org/):  
+- [Python](https://www.python.org/): Linguagem de programação.  
 - [Scikit-learn](https://scikit-learn.org/stable/) (*DecisionTreeRegressor*, *GridSearchCV*)  
-- [Pandas](https://pandas.pydata.org/):  
-- [Matplotlib](https://matplotlib.org/):  
-- [Seaborn](https://seaborn.pydata.org/):  
+- [Pandas](https://pandas.pydata.org/):  Biblioteca para manipulação e análise de dados.
+- [Matplotlib](https://matplotlib.org/):  Biblioteca para criação de gráficos e visualizações estáticas.
+- [Seaborn](https://seaborn.pydata.org/):  Biblioteca para visualização de dados estatísticos, baseada em Matplotlib.
 - [Graphviz](https://graphviz.org/): Visualização de árvores  
 
 ---
