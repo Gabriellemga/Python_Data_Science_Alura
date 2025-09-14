@@ -1,5 +1,6 @@
 # 📊 Explorando e Analisando Dados
 
+
 ## Índice
 
 - [Sobre o projeto](#sobre-o-projeto)
@@ -7,13 +8,13 @@
 - [Tecnologias utilizadas](#tecnologias-utilizadas)
 - [Licença](#licença)
 
----
+
 
 ## Sobre o projeto
 
 Projeto de exploração e análise de dados, desenvolvido como parte do curso [Data Science: explorando e analisando dados](https://www.alura.com.br), com o objetivo de investigar padrões, relações e insights em um conjunto de dados diversificado. O projeto utiliza a biblioteca **Pandas** para manipulação e limpeza dos dados, e **Seaborn** e **Matplotlib** para visualizações claras e informativas.
 
----
+
 
 ## Aprendizagens
 
@@ -23,7 +24,7 @@ Projeto de exploração e análise de dados, desenvolvido como parte do curso [D
 - **Visualização de dados**: Criação de gráficos estatísticos (histogramas, boxplots, heatmaps e scatter plots) para identificar tendências, outliers e correlações.
 - **Interpretação de resultados**: Extração de conclusões baseadas em evidências dos dados e das visualizações geradas.
 
----
+
 
 ## Tecnologias utilizadas
 
@@ -33,16 +34,13 @@ Projeto de exploração e análise de dados, desenvolvido como parte do curso [D
 - [Matplotlib](https://matplotlib.org/): Biblioteca para visualizações estáticas.
 - [Seaborn](https://seaborn.pydata.org/): Biblioteca para visualizações estatísticas avançadas.
 
----
+
 
 ## Licença
 
 Este projeto está licenciado sob a [Licença MIT](https://opensource.org/licenses/MIT). Consulte o arquivo `LICENSE` para obter mais informações.
 
----
+
 
 ✨ Feito por [Marcia Gabrielle](https://github.com/Gabriellemga).
 
----
-
-Precisa de mais algum ajuste ou que eu formate de outra maneira? 😊
