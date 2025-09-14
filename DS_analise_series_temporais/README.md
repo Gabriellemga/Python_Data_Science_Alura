@@ -4,7 +4,6 @@
 
   - [Sobre o projeto](https://www.google.com/search?q=%23sobre-o-projeto)
   - [Aprendizagens](https://www.google.com/search?q=%23aprendizagens)
-  - [Como acessar o projeto?](https://www.google.com/search?q=%23como-acessar-o-projeto)
   - [Tecnologias utilizadas](https://www.google.com/search?q=%23tecnologias-utilizadas)
   - [Licença](https://www.google.com/search?q=%23licen%C3%A7a)
 
