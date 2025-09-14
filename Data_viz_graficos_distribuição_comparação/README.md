@@ -1,4 +1,4 @@
-# 📊 Data Viz: Gráficos de Distribuição e Comparação
+# 📊 Gráficos de Distribuição e Comparação
 
 ## Índice
 - [Sobre o projeto](#sobre-o-projeto)
