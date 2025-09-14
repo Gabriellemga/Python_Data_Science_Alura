@@ -1,4 +1,4 @@
-# 📈| Análise de Séries Temporais: contagem de bicicletas
+# 📈 Análise de Séries Temporais: contagem de bicicletas
 
 ## Índice
 
