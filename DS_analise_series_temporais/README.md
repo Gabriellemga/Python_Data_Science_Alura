@@ -12,7 +12,7 @@
 
 ## Sobre o projeto
 
-Projeto de análise de dados focado em séries temporais, desenvolvido para estudar a contagem de bicicletas com base em dados de clima, estação do ano e outros fatores. O projeto utiliza a biblioteca **Pandas** para a manipulação e o processamento inicial dos dados.
+Projeto de análise de dados focado em séries temporais, desenvolvido  [Data Science: analisando e prevendo séries temporais](https://www.alura.com.br/curso-online-numpy-analise-numerica-eficiente-pythons), para estudar a contagem de bicicletas com base em dados de clima, estação do ano e outros fatores. O projeto utiliza a biblioteca **Pandas** para a manipulação e o processamento inicial dos dados.
 
 -----
 
@@ -31,6 +31,8 @@ Projeto de análise de dados focado em séries temporais, desenvolvido para estu
   - [Pandas](https://pandas.pydata.org/): Biblioteca para manipulação e análise de dados.
   - [Matplotlib](https://matplotlib.org/): Biblioteca para criação de gráficos e visualizações estáticas.
   - [Plotly](https://plotly.com/python/): Biblioteca para visualizações interativas.
+  - [Seaborn](https://seaborn.pydata.org/):Biblioteca para visualização de dados estatísticos, baseada em Matplotlib.
+  - [Prophet](https://facebook.github.io/prophet/docs/quick_start.html#python-api):Biblioteca de código aberto do Facebook (agora Meta) para previsão de séries temporais.
 
 -----
 
