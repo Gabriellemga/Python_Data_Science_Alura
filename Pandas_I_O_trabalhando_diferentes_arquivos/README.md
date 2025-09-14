@@ -36,4 +36,4 @@ Este projeto está licenciado sob a [Licença MIT](https://opensource.org/licens
 
 ---
 
-✨ Feito com carinho por [Marcia Gabrielle](https://github.com/Gabriellemga).
+✨ Feito por [Marcia Gabrielle](https://github.com/Gabriellemga).
