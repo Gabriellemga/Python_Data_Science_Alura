@@ -1,8 +1,5 @@
 # 📊| Data Visualization: criando gráficos com bibliotecas Python
 
-![Licença](https://img.shields.io/badge/Licen%C3%A7a-MIT-f5b5ca.svg)
-![Status](https://img.shields.io/badge/Status-Concluído-abf285.svg)
-
 ## Índice
 
 - [Sobre o projeto](#sobre-o-projeto)
