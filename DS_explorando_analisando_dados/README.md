@@ -1,7 +1,3 @@
-Perfeito! Com base no modelo detalhado que você enviou (com emojis, índice, seções e formatação), vou criar um texto adaptado para o link do projeto **"Explorando e analisando dados"**. Seguindo a mesma estrutura e estilo:
-
----
-
 # 📊 Explorando e Analisando Dados
 
 ## Índice
