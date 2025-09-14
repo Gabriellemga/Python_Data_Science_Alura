@@ -36,7 +36,6 @@ Projeto especializado em **visualizações de composição e relacionamento** en
 - [Plotly](https://plotly.com/python/): Criação de gráficos interativos e dinâmicos.
 - [Pandas](https://pandas.pydata.org/): Manipulação e preparação de dados.
 - [NumPy](https://numpy.org/): Computação numérica para transformações de dados.
-- [Squarify](https://github.com/laserson/squarify): Biblioteca especializada para criação de treemaps.
 
 ---
 
